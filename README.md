@@ -1,0 +1,5 @@
+This research project focuses on secure coding practices and how writing clean, well-structured code helps prevent intrusions and unauthorized access to web applications. The study examines common vulnerabilities introduced by poor coding habits and highlights best practices that reduce the risk of exploitation by attackers.
+
+Through this research, I learned how issues such as improper input validation, insecure authentication, weak session management, and lack of access control can expose applications to attacks like SQL injection, cross-site scripting (XSS), and unauthorized data access. The project emphasizes defensive development techniques including secure design principles, validation and sanitization of user input, proper error handling, and adherence to security standards.
+
+Overall, this research reinforces the importance of security-first development, showing that writing code correctly from the start is one of the most effective ways to protect web applications from hackers and reduce attack surfaces.
