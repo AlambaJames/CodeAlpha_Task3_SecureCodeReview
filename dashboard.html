@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Notes Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body onload="loadNotes()">
+
+<h2>Welcome!</h2>
+
+<textarea id="noteArea" placeholder="Write your note here..."></textarea><br>
+<button onclick="addNote()">Add Note</button>
+
+<h3>Your Notes</h3>
+<ul id="notesList"></ul>
+
+<button onclick="logout()">Logout</button>
+
+<script src="notes.js"></script>
+</body>
+</html>
